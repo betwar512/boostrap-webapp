@@ -17,12 +17,13 @@ import utils.CustomItem;
 	public class LogCustomHelper {
 		
 		
-		public HashMap<String,ArrayList<CustomItem>> objectArray;
-		
+		public HashMap<String,ArrayList<CustomItem>> objectArray;  //CustomItemList 
+		public ArrayList<ArrayList<String>>  stringMap; //Map Strings
 		
 		public LogCustomHelper(){
 			
 			objectArray=createCustomItems();
+			stringMap=createMap();
 			
 		}
 		
@@ -41,7 +42,7 @@ import utils.CustomItem;
 		    return files;
 		}
 
-
+		
 		
 		/*
 		 * Test level 1
@@ -61,15 +62,9 @@ import utils.CustomItem;
 			//get Map 
 		ArrayList<ArrayList<String>> retMap=createMap();		
 		HashMap<String,ArrayList<CustomItem>> map=new HashMap<>();
-	
-		//SettlementCustomHandler.settleMents(retMap);
-		
-			for (ArrayList<String> t : retMap) {
 
-			
-				
-		
-				
+			for (ArrayList<String> t : retMap) {
+	
 				//Entry<Integer, ArrayList<String>> t = entries.next();	
 				CustomItem item=new CustomItem(); //Pass an Item 
 				
@@ -97,7 +92,10 @@ import utils.CustomItem;
 									if(cardTypeCounter==1)
 								{	
 									cardTypeCounter=0;
-									item.cardType=r;
+									if(r.contains("DE"))
+									item.cardType="DEBIT";
+									else
+										item.cardType=r;
 									bool=false;	
 								}
 							}
@@ -221,15 +219,67 @@ import utils.CustomItem;
 		}//top forEach 
 
 			System.out.println("Done");
-			
-			
-		
-			
+
 			return map;
 			
 		}
+		
+		
+		
+		/*
+		 * Read all the files 
+		 * */
+		public ArrayList<ArrayList<String>> createReceiptMap()
+		{
+			
+			ArrayList<ArrayList<String>> map=new ArrayList<ArrayList<String>>();//add all to map 
+			//int mapIndex=0;
+			
+			final String folderPath = "/Users/betwar/Desktop/workSpace/boostrap-webapp/src/main/java/receipt";
+			final File folder = new File(folderPath);
+			List<File> files= listFilesForFolder(folder);
+			ArrayList<String> array=new ArrayList<String>();
+			
+			for(File file:files){
+				
+		     	try{
+		
+				   FileInputStream fstream = new FileInputStream(file);
+				   BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+				   String strLine;
+				   /* read the log File line by line */
+				   while ((strLine = br.readLine()) != null)   {
+					    int lineCounter=0; //if is line counter 2 that make ziro and add to array 
+					    
+					    
+					    
+					    
+					    if(strLine.contains("------------------------"))
+					    {
+					    	lineCounter++;
+					    }else
+					    	if(lineCounter<2)
+					    {
+					    		array.add(strLine);
+					    	
+					    }else 
+					    	if(lineCounter==2){
+					    		      lineCounter=0;
+					    		      map.add(array);
+					    	array=new ArrayList<String>();	    //re init  
+					    	}
+
+					   System.out.println(strLine);
+				      }
+				   } catch (Exception e) {
+					     System.err.println("Error: " + e.getMessage());
+				}
+			  }
+			
+			return map;
+			}
 
 
-
+				
 
 }

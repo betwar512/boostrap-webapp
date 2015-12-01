@@ -31,21 +31,18 @@ public class TableController extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-		  LogCustomHelper lcg=new LogCustomHelper();//logger class with property HashMap list of all the transactions 
+		    LogCustomHelper lcg=new LogCustomHelper();//logger class with property HashMap list of all the transactions 
+		    
 	        HashMap<String,ArrayList<CustomItem>> map = lcg.objectArray;
-	        ArrayList<CustomItem> itemsAll=SumCustomHandler.mapToList(map);
-	        
+	        ArrayList<CustomItem> itemsAll=SumCustomHandler.mapToList(map);        
 	        HashMap<String,ArrayList<CustomItem>> mapTerminal=GroupCustomHandler.createTerminalGroup(itemsAll);
-	        
-	        
 	        ArrayList<TotalTerminalCard> groupTotals=customHandlers.SumCustomHandler.getTerminalCardTotal(mapTerminal);
 	        Float total=0f;
 	        for(TotalTerminalCard it:groupTotals)
 	        total+=it.total;
-	     request.setAttribute("total", total);   
-	    request.setAttribute("groups", groupTotals);
-		request.getRequestDispatcher("fullreport.xhtml").forward(request, response);
-	
+		    request.setAttribute("total", total);   
+		    request.setAttribute("groups", groupTotals);
+			request.getRequestDispatcher("fullreport.xhtml").forward(request, response);
 		
 	}
 

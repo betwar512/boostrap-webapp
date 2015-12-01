@@ -13,10 +13,11 @@ import javax.servlet.http.HttpServletResponse;
 
 import customHandlers.GroupCustomHandler;
 import customHandlers.LogCustomHelper;
+import customHandlers.ReceiptCustomHandler;
+import customHandlers.SettlementCustomHandler;
 import customHandlers.SumCustomHandler;
 import customHandlers.TypeConvertor;
-import utils.CustomItem;
-import utils.GroupTotal;
+import utils.*;
 
 
 /**
@@ -37,6 +38,9 @@ public class FposController extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		
+		
 	
 		request.getRequestDispatcher("tables.xhtml").forward(request, response);
 		
@@ -47,7 +51,7 @@ public class FposController extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	
-		
+		ReceiptCustomHandler.createMap();
 
 			//JQuery passed data 
 		String minTime=request.getParameter("mindatetime");
@@ -57,42 +61,45 @@ public class FposController extends HttpServlet {
 	     Date selectedDate=TypeConvertor.jqueryStringToDate(minTime); //Min time index
 	     Date maxSelectedDate=TypeConvertor.jqueryStringToDate(maxTime);//Max time index 
 
-		
-		
 	        LogCustomHelper lcg=new LogCustomHelper();//logger class with property HashMap list of all the transactions 
-		
 	        HashMap<String,ArrayList<CustomItem>> map = lcg.objectArray;
 		  	ArrayList<CustomItem> itemsAll=SumCustomHandler.mapToList(map);
-
+	
+		 
+		  	//Settlements 
+		  ArrayList<Settlement> sett=SettlementCustomHandler.settlements(lcg.stringMap);
 		  	
-		  	// create list of items in specified proximity 
-	        ArrayList<CustomItem> itemsTime=  GroupCustomHandler.afterPassedDate(itemsAll,selectedDate,maxSelectedDate);
-		   	
-		  
-		   	Collections.sort(itemsTime,new CustomItem());//Sort collection interface 
-		    Float totalBySelecteddate=SumCustomHandler.getTotal(itemsTime);
-		    
-		    HashMap<String,ArrayList<CustomItem>> timeSortedMap=GroupCustomHandler.createMap(itemsTime);//Sort by card type 
-		    
-		    ArrayList<GroupTotal> groupTotals=customHandlers.SumCustomHandler.getGroupTotal(timeSortedMap);//total for all the transaction in log file 
-		
 
+		  	// create list of items in specified proximity 
+	        ArrayList<CustomItem> itemsTime=  GroupCustomHandler.afterPassedDate(itemsAll,selectedDate,maxSelectedDate);  
+		   	Collections.sort(itemsTime,new CustomItem());//Sort collection interface 
+		    Float totalBySelecteddate=SumCustomHandler.getTotal(itemsTime);    
+		    HashMap<String,ArrayList<CustomItem>> timeSortedMap=GroupCustomHandler.createMap(itemsTime);//Sort by card type     
+		    ArrayList<GroupTotal> groupTotals=customHandlers.SumCustomHandler.getGroupTotal(timeSortedMap);//total for all the transaction in log file 
+	
+		    
+		    ////////////
+		    
+		    
+		      HashMap<String,ArrayList<CustomItem>> terminalMap = lcg.objectArray;
+		        ArrayList<CustomItem> terminalItemsAll=SumCustomHandler.mapToList(terminalMap);        
+		        HashMap<String,ArrayList<CustomItem>> mapTerminal=GroupCustomHandler.createTerminalGroup(terminalItemsAll);
+		        ArrayList<TotalTerminalCard> terminalGroupTotals=customHandlers.SumCustomHandler.getTerminalCardTotal(mapTerminal);
+		        Float total=0f;
+		        for(TotalTerminalCard it:terminalGroupTotals)
+		        total+=it.total;
+		    ///////
+	
+		 request.setAttribute("terminaltotal", total);   
+	     request.setAttribute("terminalgroups", terminalGroupTotals);
 		    
 		//set variables in request object 
+		 request.setAttribute("settlement", sett);
 		 request.setAttribute("total", totalBySelecteddate);
 		 request.setAttribute("items", itemsTime);
 		 request.setAttribute("cards",groupTotals);
-		 
-//		String url="Table.jsp"; //relative url for display jsp page
-//		
-//		//HttpSession session =request.getSession();
-//		 request.getRequestDispatcher(url).forward(request,response);
-		
-		 
-		 doGet(request,response);
-		 
-		 
-		 
+		  
+		 doGet(request,response);	 
 	}
 
 }

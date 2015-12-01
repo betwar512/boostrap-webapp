@@ -1,0 +1,4715 @@
+09092015153320     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 09/09/15 15:33
+
+       APPROVED 00
+------------------------
+??????....000000100000000000000000000 0000001                           
+??????....000000100000000000000000000 0000001                           
+??????....000000100000000000000000000 0000001                           
+09092015154629   2021               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 09/09/15 15:46
+RRN         000001000202
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############4743 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    DADDBAE44405FEBC
+
+AUTH ID           329725
+
+PURCHASE           $1.00
+
+TOTAL AUD          $1.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000010000000000000000000020002021               000001000202
+09092015175917   2031               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 09/09/15 17:59
+RRN         000001000203
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############4743 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    6E9E8C4F23396F1F
+
+AUTH ID           241129
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000080000000000000000000020002031               000001000203
+09092015181422   2041               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 09/09/15 18:14
+RRN         000001000204
+VISA
+AID A0000000031010
+BOQ VISA DEBIT
+############5227 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    75B545B7010A77CC
+
+AUTH ID           866017
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+434968....00000080000000000000000000020002041               000001000204
+09092015182333   2051               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 09/09/15 18:23
+RRN         000001000205
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############4743 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    B9B398822774CFAA
+
+AUTH ID           120727
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000080000000000000000000020002051               000001000205
+09092015182835     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 09/09/15 18:29
+
+       APPROVED 00
+------------------------
+09092015183845     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 09/09/15 18:39
+
+       APPROVED 00
+------------------------
+09092015183855   26700000000000000000024
+------------------------
+
+TRANSACTION LISTING
+Date/Time 09/09/20118:39
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+
+ NO STORED TRANSACTIONS
+------------------------
+09092015183906     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 09/09/15 18:39
+
+       APPROVED 00
+------------------------
+09092015183923     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 09/09/15 18:39
+
+       APPROVED 00
+------------------------
+09092015184157     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 09/09/15 18:42
+
+       APPROVED 00
+------------------------
+10092015101547   4081               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 10/09/15 10:16
+RRN         000001000408
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############4743 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    607A416655208D76
+
+AUTH ID           424720
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000080000000000000000000020004081               000001000408
+10092015101917   4101               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 10/09/15 10:19
+RRN         000001000410
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############4743 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    7CDA923A18F9CDF2
+
+AUTH ID           509122
+
+PURCHASE           $5.00
+
+TOTAL AUD          $5.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000050000000000000000000020004101               000001000410
+10092015102001   4111               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 10/09/15 10:20
+RRN         000001000411
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############4743 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    30122B04C95C83D8
+
+AUTH ID           108127
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000080000000000000000000020004111               000001000411
+??????....000000800000000000000000000 0000001                           
+??????....000000800000000000000000000 0000001                           
+??????....000000100000000000000000000 0000001                           
+11092015124049   4121               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 11/09/15 12:41
+RRN         000001000412
+MASTERCARD
+AID A0000000041010
+MASTERCARD
+############1783 (C)
+Credit A/C
+
+       APPROVED Y1
+TC      AB954031898C76C4
+
+AUTH ID           000000
+
+PURCHASE           $1.00
+
+TOTAL AUD          $1.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516310....00000010000000000000000000020004121               000001000412
+??????....000000100000000000000000000 0000001                           
+??????....000000100000000000000000000 0000001                           
+11092015125112   4131               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 11/09/15 12:51
+RRN         000001000413
+MASTERCARD
+AID A0000000041010
+MASTERCARD
+############1783 (C)
+Credit A/C
+
+       APPROVED Y1
+TC      4766BB305E99C9BB
+
+AUTH ID           000000
+
+PURCHASE           $1.00
+
+TOTAL AUD          $1.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516310....00000010000000000000000000020004131               000001000413
+??????....000000800000000000000000000 0000001                           
+11092015211308     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 11/09/15 21:13
+
+       APPROVED 00
+------------------------
+??????....000000800000000000000000000 0000001                           
+11092015232730   4171               0024
+------------------------
+
+
+XY2 BAR
+FORTITUDE VAL AU
+
+LAST SETTLEMENT
+Currency Code         AU
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+SETTLEMENT      11/09/15
+
+Purch Count            2
+Purch Amount       $2.00
+
+Cash Count             0
+Cash Amount        $0.00
+
+Refund Count           0
+Refund Amount      $0.00
+
+Deposit Count          0
+Deposit Amount     $0.00
+------------------------
+Net Amount         $2.00
+
+CARD TYPE TOTALS
+MASTERCARD Count       2
+Purch Amount       $2.00
+Refund Amount      $0.00
+Deposit Amount     $0.00
+Net Amount         $2.00
+
+
+VISA Count             0
+Purch Amount       $0.00
+Refund Amount      $0.00
+Deposit Amount     $0.00
+Net Amount         $0.00
+
+
+DEBIT Count            0
+Purch Amount       $0.00
+Refund Amount      $0.00
+Deposit Amount     $0.00
+Net Amount         $0.00
+
+OTHER CARD TYPE TOTALS
+CUP Count              0
+Purch Amount       $0.00
+Refund Amount      $0.00
+Deposit Amount     $0.00
+Net Amount         $0.00
+
+11/09/15 23:27
+RRN         000001000417
+
+APPROVED 00
+------------------------
+??????....000000800000000000000000000 0000001                           
+12092015004628     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 12/09/15 00:46
+
+       APPROVED 00
+------------------------
+??????....000000800000000000000000000 0000001                           
+12092015010133     000000000000000000024
+------------------------
+
+
+      HOST SIGN ON
+
+ACQUIRER             NAB
+MERCHANT ID     42222505
+TERMINAL ID       BN0UR1
+ARGENT ID         000001
+ARGENT SHA      80000112
+S/W VERSION     01.00.25
+
+PPID    5602511502500815
+DATE/TIME 12/09/15 01:02
+
+       APPROVED 00
+------------------------
+??????....000000800000000000000000000 0000001                           
+??????....000000800000000000000000000 0000001                           
+??????....000000500000000000000000000 0000001                           
+12092015220221   4201               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 22:02
+RRN         000001000420
+DEBIT
+###############6029 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           334904
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+501007....00000100000000000000000000000004201               000001000420
+??????....000000500000000000000000000 0000001                           
+12092015221944   4211               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 22:20
+RRN         000001000421
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############6111 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    9D4D0DD7EA25EEC7
+
+AUTH ID           R76464
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000100000000000000000000020004211               000001000421
+12092015223117   4221               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 22:31
+RRN         000001000422
+DEBIT
+#############5220 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           977874
+
+PURCHASE          $14.00
+
+TOTAL AUD         $14.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000140000000000000000000000004221               000001000422
+12092015223613   4231               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 22:36
+RRN         000001000423
+VISA
+AID A0000000031010
+NPBS VISA DEBIT
+############5541 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    EA938A41A51964DF
+
+AUTH ID           161560
+
+PURCHASE           $5.00
+
+TOTAL AUD          $5.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456475....00000050000000000000000000020004231               000001000423
+12092015225536   4241               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 22:55
+RRN         000001000424
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############8650 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    BAE3CBD871FF9B6D
+
+AUTH ID           R49831
+
+PURCHASE          $20.00
+
+TOTAL AUD         $20.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000200000000000000000000020004241               000001000424
+12092015225749   4251               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 22:57
+RRN         000001000425
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############5079 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    B8364A930BC1569B
+
+AUTH ID           066993
+
+PURCHASE          $50.00
+
+TOTAL AUD         $50.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000500000000000000000000020004251               000001000425
+12092015230804   4261               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:08
+RRN         000001000426
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############8941 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    948AA1290B19EA41
+
+AUTH ID           R71964
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000080000000000000000000020004261               000001000426
+12092015230847   4271               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:08
+RRN         000001000427
+VISA
+AID A0000000031010
+SUN VISA DEBIT
+############2360 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    1315C11300634B4F
+
+AUTH ID           283353
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456430....00000080000000000000000000020004271               000001000427
+12092015233254   4281               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:33
+RRN         000001000428
+MASTERCARD
+############2738 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           806107
+
+PURCHASE          $30.00
+
+TOTAL AUD         $30.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+521729....00000300000000000000000000000004281               000001000428
+12092015233410   4291               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:34
+RRN         000001000429
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############5535 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    EE94993165597C5A
+
+AUTH ID           104477
+
+PURCHASE          $21.00
+
+TOTAL AUD         $21.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000210000000000000000000020004291               000001000429
+12092015233844   4301               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:38
+RRN         000001000430
+VISA
+AID A0000000031010
+BOQ VISA DEBIT
+############3265 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    85BE812C0B38F1AE
+
+AUTH ID           147290
+
+PURCHASE           $8.50
+
+TOTAL AUD          $8.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+434968....00000085000000000000000000020004301               000001000430
+12092015234114   4311               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:41
+RRN         000001000431
+DEBIT
+############0570 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           000431
+
+PURCHASE          $42.00
+
+TOTAL AUD         $42.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560254....00000420000000000000000000000004311               000001000431
+12092015234320   4321               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 12/09/15 23:43
+RRN         000001000432
+VISA
+AID A0000000031010
+BOQ VISA DEBIT
+############1057 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    AD1956C78E3E117D
+
+AUTH ID           147360
+
+PURCHASE          $18.00
+
+TOTAL AUD         $18.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+434968....00000180000000000000000000020004321               000001000432
+13092015000251   4331               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:03
+RRN         000001000433
+DEBIT
+############7730 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           072332
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560251....00000080000000000000000000000004331               000001000433
+13092015000800   4341               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:08
+RRN         000001000434
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############6165 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    B1A4B610B125BC31
+
+AUTH ID           134760
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000080000000000000000000020004341               000001000434
+13092015001858   4351               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:19
+RRN         000001000435
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############7636 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    25F9573256148F0D
+
+AUTH ID           144147
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000320000000000000000000020004351               000001000435
+13092015002105   4361               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:21
+RRN         000001000436
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############9961 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    2D74828ECCCFA308
+
+AUTH ID           162424
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000160000000000000000000020004361               000001000436
+13092015002242   4371               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:22
+RRN         000001000437
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############3936 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    EB53B8FE4C72204E
+
+AUTH ID           324532
+
+PURCHASE          $24.00
+
+TOTAL AUD         $24.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000240000000000000000000020004371               000001000437
+13092015002912   4381               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:29
+RRN         000001000438
+VISA
+AID A0000000031010
+HBL VISA DEBIT
+############1055 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    E245BC65246C62E1
+
+AUTH ID           272029
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+405497....00000320000000000000000000020004381               000001000438
+13092015002925   43800000000000000000024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:29
+RRN         000001000438
+VISA
+AID A0000000031010
+HBL VISA DEBIT
+############1055 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    E245BC65246C62E1
+
+AUTH ID           272029
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+     ** DUPLICATE **
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 000000 0000
+------------------------
+13092015002933   43800000000000000000024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:29
+RRN         000001000438
+VISA
+AID A0000000031010
+HBL VISA DEBIT
+############1055 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    E245BC65246C62E1
+
+AUTH ID           272029
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+     ** DUPLICATE **
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 000000 0000
+------------------------
+13092015003658   4391               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:36
+RRN         000001000439
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############7121 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    D7633B4B9F196E31
+
+AUTH ID           158944
+
+PURCHASE          $21.00
+
+TOTAL AUD         $21.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000210000000000000000000020004391               000001000439
+13092015004236   4401               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:42
+RRN         000001000440
+VISA
+AID A0000000031010
+BOQ VISA DEBIT
+############7764 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    BD5D86024475561F
+
+AUTH ID           005339
+
+PURCHASE          $18.00
+
+TOTAL AUD         $18.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+434968....00000180000000000000000000020004401               000001000440
+13092015004759   4411               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:48
+RRN         000001000441
+DEBIT
+#############2110 (S)
+Savings A/C
+
+       DECLINED 51
+  REFER TO CARD ISSUER
+
+PURCHASE          $25.50
+
+TOTAL AUD         $25.50
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000255000000000000000000000004411               000001000441
+13092015004817   4421               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:48
+RRN         000001000442
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############1636 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    0924FD71475F3118
+
+AUTH ID           168265
+
+PURCHASE          $25.50
+
+TOTAL AUD         $25.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000255000000000000000000020004421               000001000442
+13092015005223   4431               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 00:52
+RRN         000001000443
+MASTERCARD
+AID A0000000041010
+CBA CREDIT
+############2831 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    78730A53DB767BBC
+
+AUTH ID           005197
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+535316....00000160000000000000000000020004431               000001000443
+13092015010151   4441               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:01
+RRN         000001000444
+VISA
+AID A0000000031010
+VISA DEBIT
+############8006 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    379900680AE4E5F7
+
+AUTH ID           255876
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+462239....00000160000000000000000000020004441               000001000444
+13092015010256   4451               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:02
+RRN         000001000445
+VISA
+AID A0000000031010
+VISA DEBIT
+############4001 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    5B5D5A3FBF1B3041
+
+AUTH ID           751208
+
+PURCHASE          $21.00
+
+TOTAL AUD         $21.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+462239....00000210000000000000000000020004451               000001000445
+13092015010726   4461               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:07
+RRN         000001000446
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############1091 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    F4416B7B0C32D5E3
+
+AUTH ID           182415
+
+PURCHASE          $21.00
+
+TOTAL AUD         $21.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000210000000000000000000020004461               000001000446
+13092015012115   4471               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:21
+RRN         000001000447
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############1091 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    F6729D06CD5F25B5
+
+AUTH ID           192093
+
+PURCHASE          $20.50
+
+TOTAL AUD         $20.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000205000000000000000000020004471               000001000447
+13092015012454   4481               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:24
+RRN         000001000448
+VISA
+AID A0000000031010
+VISA DEBIT
+############1031 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    C9E1FA776ADF923F
+
+AUTH ID           122944
+
+PURCHASE          $24.00
+
+TOTAL AUD         $24.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+462239....00000240000000000000000000020004481               000001000448
+13092015012629   4491               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:26
+RRN         000001000449
+MASTERCARD
+AID A0000000041010
+CBA PAYTAG
+############6040 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    AB5C8584FA4ABCBA
+
+AUTH ID           543475
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+537150....00000160000000000000000000020004491               000001000449
+13092015012826   4501               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:27
+RRN         000001000450
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############5042 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    786037BE1604A81B
+
+AUTH ID           196854
+
+PURCHASE           $7.50
+
+TOTAL AUD          $7.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000075000000000000000000020004501               000001000450
+13092015013021   4511               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:29
+RRN         000001000451
+VISA
+AID A0000000031010
+HSBC VISA DEBIT
+############8659 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    F1B788DEFAA58C2C
+
+AUTH ID           240199
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+458595....00000160000000000000000000020004511               000001000451
+13092015013251   4521               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:33
+RRN         000001000452
+DEBIT
+#############7935 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           982775
+
+PURCHASE          $45.50
+
+TOTAL AUD         $45.50
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000455000000000000000000000004521               000001000452
+13092015013409   4531               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:34
+RRN         000001000453
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############8031 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    4AB2F6E8CF6EDBE0
+
+AUTH ID           200946
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000080000000000000000000020004531               000001000453
+13092015014425   4541               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:44
+RRN         000001000454
+VISA
+AID A0000000031010
+HBL VISA DEBIT
+############1055 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    793F2E826138FC49
+
+AUTH ID           335774
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+405497....00000160000000000000000000020004541               000001000454
+13092015014523   4561               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:45
+RRN         000001000456
+DEBIT
+#############2110 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           983025
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000160000000000000000000000004561               000001000456
+13092015014640   4571               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:46
+RRN         000001000457
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############9594 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    A078B2F1376A0816
+
+AUTH ID           208126
+
+PURCHASE          $24.00
+
+TOTAL AUD         $24.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000240000000000000000000020004571               000001000457
+13092015015153   4581               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:52
+RRN         000001000458
+MASTERCARD
+############7219 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           809326
+
+PURCHASE          $40.00
+
+TOTAL AUD         $40.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+532655....00000400000000000000000000000004581               000001000458
+13092015015538   4591               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:55
+RRN         000001000459
+MASTERCARD
+AID A0000000041010
+CBA PAYTAG
+############6040 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    741AE98F89083FDB
+
+AUTH ID           299531
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+537150....00000160000000000000000000020004591               000001000459
+13092015015720   4601               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 01:57
+RRN         000001000460
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4066 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    FC41778D2B4603A3
+
+AUTH ID           213608
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000080000000000000000000020004601               000001000460
+13092015020220   4611               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:02
+RRN         000001000461
+VISA
+AID A0000000031010
+VISA DEBIT
+############1061 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    1A11172080F8D569
+
+AUTH ID           691176
+
+PURCHASE          $24.00
+
+TOTAL AUD         $24.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+462239....00000240000000000000000000020004611               000001000461
+13092015020634   4621               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:06
+RRN         000001000462
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############5079 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    0CAA9D4ABDC5C588
+
+AUTH ID           218390
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000320000000000000000000020004621               000001000462
+13092015020834   4631               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:08
+RRN         000001000463
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4462 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    7B165D4F33E333DF
+
+AUTH ID           219436
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+532655....00000080000000000000000000020004631               000001000463
+13092015021001   4641               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:09
+RRN         000001000464
+VISA
+AID A0000000031010
+VISA CREDIT
+############2118 (C)
+Credit A/C
+
+       APPROVED Y1
+TC      1B8E0058877D3A9F
+
+AUTH ID           000000
+
+PURCHASE          $34.00
+
+TOTAL AUD         $34.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456471....00000340000000000000000000020004641               000001000464
+13092015021215   4651               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:12
+RRN         000001000465
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############2466 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    FD1772B0BE7F0592
+
+AUTH ID           520983
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000160000000000000000000020004651               000001000465
+13092015021753   4671               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:18
+RRN         000001000467
+VISA
+############8548 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           073069
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+401795....00000160000000000000000000000004671               000001000467
+13092015022222   4681               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:22
+RRN         000001000468
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############9961 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    61702CC36CDB30E5
+
+AUTH ID           193222
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000080000000000000000000020004681               000001000468
+13092015022614   4691               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:26
+RRN         000001000469
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############5282 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    6E67EEFF24A1B60B
+
+AUTH ID           227997
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000160000000000000000000020004691               000001000469
+13092015022827   4701               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:28
+RRN         000001000470
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############0563 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    68F5E70E7E650806
+
+AUTH ID           228976
+
+PURCHASE          $33.00
+
+TOTAL AUD         $33.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000330000000000000000000020004701               000001000470
+13092015023133   4711               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:31
+RRN         000001000471
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############9736 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    9490A0B87DD1F8DB
+
+AUTH ID           912092
+
+PURCHASE           $8.50
+
+TOTAL AUD          $8.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000085000000000000000000020004711               000001000471
+13092015023403   4721               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:33
+RRN         000001000472
+VISA
+AID A0000000031010
+VISA PAYWAVE
+############2514 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    B6E45479A14851DD
+
+AUTH ID           039268
+
+PURCHASE          $34.00
+
+TOTAL AUD         $34.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456432....00000340000000000000000000020004721               000001000472
+13092015023530   4731               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:35
+RRN         000001000473
+VISA
+AID A0000000031010
+SUN VISA DEBIT
+############6887 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    47EA678B9997CBBA
+
+AUTH ID           039355
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456432....00000160000000000000000000020004731               000001000473
+13092015023741   4741               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:37
+RRN         000001000474
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4462 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    D05D0329BFDAFBCB
+
+AUTH ID           232844
+
+PURCHASE          $22.00
+
+TOTAL AUD         $22.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+532655....00000220000000000000000000020004741               000001000474
+13092015024139   4751               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:41
+RRN         000001000475
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############8427 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    6E8B22E3DFDEBF9A
+
+AUTH ID           234533
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000080000000000000000000020004751               000001000475
+13092015024500   4761               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:45
+RRN         000001000476
+DEBIT
+#############2110 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           984054
+
+PURCHASE          $17.00
+
+TOTAL AUD         $17.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000170000000000000000000000004761               000001000476
+13092015024929   4771               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:49
+RRN         000001000477
+DEBIT
+#############9513 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           810307
+
+PURCHASE          $24.00
+
+TOTAL AUD         $24.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000240000000000000000000000004771               000001000477
+13092015025034   4781               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:50
+RRN         000001000478
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4194 (C)
+Credit A/C
+
+       DECLINED 51
+  REFER TO CARD ISSUER
+ARQC    AD3EE4272A592715
+
+PURCHASE          $18.00
+
+TOTAL AUD         $18.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000180000000000000000000020004781               000001000478
+13092015025103   4791               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:51
+RRN         000001000479
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4194 (C)
+Credit A/C
+
+       DECLINED 51
+  REFER TO CARD ISSUER
+ARQC    37073FDB0AB83F48
+
+PURCHASE          $18.00
+
+TOTAL AUD         $18.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000180000000000000000000020004791               000001000479
+13092015025408   4801               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:54
+RRN         000001000480
+VISA
+############8548 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           686891
+
+PURCHASE          $22.00
+
+TOTAL AUD         $22.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+401795....00000220000000000000000000000004801               000001000480
+13092015025507   4811               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:55
+RRN         000001000481
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############8064 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    1EB2DA55E73217BA
+
+AUTH ID           053416
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000160000000000000000000020004811               000001000481
+13092015025650   4821               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 02:57
+RRN         000001000482
+MASTERCARD
+############7219 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           810428
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+532655....00000160000000000000000000000004821               000001000482
+13092015031245   4831               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 03:13
+RRN         000001000483
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############0563 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    B662ABAEA0A80A11
+
+AUTH ID           245637
+
+PURCHASE          $21.00
+
+TOTAL AUD         $21.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000210000000000000000000020004831               000001000483
+13092015031549   4841               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 13/09/15 03:14
+RRN         000001000484
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4462 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    8B0FBB94CD8780C6
+
+AUTH ID           246237
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+532655....00000080000000000000000000020004841               000001000484
+??????....000000500000000000000000000 0000001                           
+14092015005118   4851               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 00:51
+RRN         000001000485
+DEBIT
+#############4238 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           945613
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000100000000000000000000000004851               000001000485
+14092015010140   4871               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 01:02
+RRN         000001000487
+DEBIT
+#############0241 (S)
+Cheque A/C
+
+       DECLINED 52
+    NO CHEQUE ACCOUNT
+
+PURCHASE          $23.50
+
+TOTAL AUD         $23.50
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000235000000000000000000010004871               000001000487
+14092015010206   4881               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 01:02
+RRN         000001000488
+DEBIT
+#############0241 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           120035
+
+PURCHASE          $23.50
+
+TOTAL AUD         $23.50
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000235000000000000000000000004881               000001000488
+14092015010226   48800000000000000000024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 01:02
+RRN         000001000488
+DEBIT
+#############0241 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           120035
+
+PURCHASE          $23.50
+
+TOTAL AUD         $23.50
+
+     ** DUPLICATE **
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+14092015011306   4891               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 01:13
+RRN         000001000489
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############2146 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    1468131C3911BD3C
+
+AUTH ID           854206
+
+PURCHASE          $20.00
+
+TOTAL AUD         $20.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000200000000000000000000020004891               000001000489
+14092015013921   4901               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 01:39
+RRN         000001000490
+VISA
+AID A0000000031010
+VISA CREDIT
+############3700 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    6A12303F8775F0B0
+
+AUTH ID           235452
+
+PURCHASE          $13.50
+
+TOTAL AUD         $13.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456468....00000135000000000000000000020004901               000001000490
+377767....000003200000000000000000000 0000001                           
+14092015015622   4911               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 01:56
+RRN         000001000491
+VISA
+AID A0000000031010
+VISA CREDIT
+############3700 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    6A39AEAB2FFF83B3
+
+AUTH ID           628156
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456468....00000320000000000000000000020004911               000001000491
+??????....000001000000000000000000000 0000001                           
+??????....000001000000000000000000000 0000001                           
+14092015031440   4921               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 03:14
+RRN         000001000492
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############8100 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    AEC0B0B7074B831D
+
+AUTH ID           R09726
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000100000000000000000000020004921               000001000492
+14092015031626   4931               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 14/09/15 03:16
+RRN         000001000493
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############5005 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    9446232F22FF3FBB
+
+AUTH ID           135433
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+401795....00000100000000000000000000020004931               000001000493
+19092015214124   4941               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 21:40
+RRN         000001000494
+VISA
+AID A0000000031010
+VISA DEBIT
+############6037 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    04C64FBE668D147F
+
+AUTH ID           030973
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+462239....00000100000000000000000000020004941               000001000494
+19092015214322   4961               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 21:43
+RRN         000001000496
+VISA
+############3054 (I)
+Cheque A/C
+
+       APPROVED 00
+
+AUTH ID           000496
+
+PURCHASE          $28.50
+
+TOTAL AUD         $28.50
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+462239....00000285000000000000000000010004961               000001000496
+19092015215504   4971               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 21:54
+RRN         000001000497
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############1636 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    219ECC75D1195DF5
+
+AUTH ID           600867
+
+PURCHASE          $23.00
+
+TOTAL AUD         $23.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000230000000000000000000020004971               000001000497
+19092015215816   4981               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 21:58
+RRN         000001000498
+VISA
+AID A0000000031010
+BOQ VISA DEBIT
+############9466 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    F4955D0F6B56EC84
+
+AUTH ID           575202
+
+PURCHASE          $13.50
+
+TOTAL AUD         $13.50
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+434968....00000135000000000000000000020004981               000001000498
+19092015220238   4991               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:02
+RRN         000001000499
+VISA
+AID A0000000031010
+VISA DEBIT
+############8755 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    DD78D61905AB557C
+
+AUTH ID           999723
+
+PURCHASE          $13.00
+
+TOTAL AUD         $13.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+461977....00000130000000000000000000020004991               000001000499
+19092015220535   5001               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:05
+RRN         000001000500
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############9540 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    86905ED72A52C54B
+
+AUTH ID           612647
+
+PURCHASE          $20.00
+
+TOTAL AUD         $20.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000200000000000000000000020005001               000001000500
+19092015220615   5011               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:05
+RRN         000001000501
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############4099 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    3D8F5BBB79AF5B69
+
+AUTH ID           R12731
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000100000000000000000000020005011               000001000501
+19092015221019   5021               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:10
+RRN         000001000502
+VISA
+AID A0000000031010
+NAB VISA DEBIT
+############3242 (I)
+Credit A/C
+
+       APPROVED 00
+TC      D1CAF0E9F9D36E31
+
+AUTH ID           155017
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000046000 420300 F800
+------------------------
+401795....00000100000000000000000000020005021               000001000502
+19092015221207   5031               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:11
+RRN         000001000503
+VISA
+AID A0000000031010
+BOQ VISA DEBIT
+############9466 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    4E15514AA2A57A0C
+
+AUTH ID           575649
+
+PURCHASE           $5.00
+
+TOTAL AUD          $5.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+434968....00000050000000000000000000020005031               000001000503
+19092015222119   5041               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:21
+RRN         000001000504
+VISA
+############7023 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           000504
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+462239....00000160000000000000000000000005041               000001000504
+19092015222517   5051               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:25
+RRN         000001000505
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############4380 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    4561CCCE02D8E100
+
+AUTH ID           R55554
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000320000000000000000000020005051               000001000505
+19092015222710   5061               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:27
+RRN         000001000506
+DEBIT
+#############2110 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           190768
+
+PURCHASE          $18.00
+
+TOTAL AUD         $18.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000180000000000000000000000005061               000001000506
+19092015223647   5071               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:36
+RRN         000001000507
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############4380 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    B33E9DB8D4FF29B7
+
+AUTH ID           R80237
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000100000000000000000000020005071               000001000507
+19092015223744   5081               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:37
+RRN         000001000508
+VISA
+############7023 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           000508
+
+PURCHASE          $24.00
+
+TOTAL AUD         $24.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+462239....00000240000000000000000000000005081               000001000508
+19092015224023   5091               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:40
+RRN         000001000509
+VISA
+AID A0000000031010
+SUN VISA DEBIT
+############8023 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    A0608748D355E186
+
+AUTH ID           981618
+
+PURCHASE          $17.00
+
+TOTAL AUD         $17.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456430....00000170000000000000000000020005091               000001000509
+19092015224231   5101               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:42
+RRN         000001000510
+VISA
+AID A0000000031010
+VISA PAYWAVE
+############2145 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    7FB1AD3AC3DFB036
+
+AUTH ID           091746
+
+PURCHASE          $20.00
+
+TOTAL AUD         $20.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456432....00000200000000000000000000020005101               000001000510
+19092015225014   5111               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:49
+RRN         000001000511
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############8039 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    663700A1F0F5898B
+
+AUTH ID           658225
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000100000000000000000000020005111               000001000511
+19092015225101   5121               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:50
+RRN         000001000512
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############7729 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    43E7A5DA512C3CF2
+
+AUTH ID           659000
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000100000000000000000000020005121               000001000512
+19092015225136   5131               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:51
+RRN         000001000513
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############2666 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    615A9DD1F5DA3C35
+
+AUTH ID           659619
+
+PURCHASE           $5.00
+
+TOTAL AUD          $5.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000050000000000000000000020005131               000001000513
+19092015225209   5141               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:51
+RRN         000001000514
+VISA
+AID A0000000031010
+SUN VISA DEBIT
+############4761 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    2182B234BC71739D
+
+AUTH ID           092325
+
+PURCHASE           $5.00
+
+TOTAL AUD          $5.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456432....00000050000000000000000000020005141               000001000514
+19092015225428   5151               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:53
+RRN         000001000515
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############4046 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    D753DB47E2C3C8AB
+
+AUTH ID           662438
+
+PURCHASE          $10.00
+
+TOTAL AUD         $10.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+532655....00000100000000000000000000020005151               000001000515
+19092015225451   5161               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 22:53
+RRN         000001000516
+VISA
+AID A0000000031010
+VISA PAYWAVE
+############7060 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    ED9FB83FAA07B02F
+
+AUTH ID           092485
+
+PURCHASE          $20.00
+
+TOTAL AUD         $20.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456432....00000200000000000000000000020005161               000001000516
+19092015230058   5171               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:00
+RRN         000001000517
+MASTERCARD
+############1382 (I)
+Cheque A/C
+
+       APPROVED 00
+
+AUTH ID           518159
+
+PURCHASE           $5.00
+
+TOTAL AUD          $5.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+516361....00000050000000000000000000010005171               000001000517
+19092015230219   5181               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:02
+RRN         000001000518
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############9829 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    9790043A31FE4D91
+
+AUTH ID           669893
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000160000000000000000000020005181               000001000518
+19092015230648   5191               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      MERCHANT COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:06
+RRN         000001000519
+VISA
+AID A0000000031010
+VISA CREDIT
+440066 296 (I)
+Credit A/C
+
+       APPROVED 00
+TC      6EBB71705C20A8FC
+
+AUTH ID           02292B
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+        SIGNATURE
+
+
+
+------------------------
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 8080008000 1E0300 7800
+------------------------
+19092015230719   5191               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:06
+RRN         000001000519
+VISA
+AID A0000000031010
+VISA CREDIT
+############7296 (I)
+Credit A/C
+
+       APPROVED 00
+TC      6EBB71705C20A8FC
+
+AUTH ID           02292B
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 8080008000 1E0300 7800
+------------------------
+440066....00000160000000000000000000020005191               000001000519
+19092015230924   5201               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:09
+RRN         000001000520
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############1133 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    E3473341DC82B6A9
+
+AUTH ID           676327
+
+PURCHASE          $18.00
+
+TOTAL AUD         $18.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000180000000000000000000020005201               000001000520
+19092015231213   5211               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:11
+RRN         000001000521
+VISA
+AID A0000000031010
+HBL VISA DEBIT
+############0024 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    48FF2CE4C9BD9154
+
+AUTH ID           258854
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+405497....00000160000000000000000000020005211               000001000521
+19092015231627   5221               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:16
+RRN         000001000522
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############2724 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    6409BB6FD498D84E
+
+AUTH ID           682535
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000160000000000000000000020005221               000001000522
+19092015231803   5231               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:17
+RRN         000001000523
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############1636 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    07C74D9E02F9FC48
+
+AUTH ID           683976
+
+PURCHASE          $17.00
+
+TOTAL AUD         $17.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000170000000000000000000020005231               000001000523
+19092015231843   5241               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:18
+RRN         000001000524
+VISA
+AID A0000000031010
+VISA DEBIT
+############2039 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    A34BB366F2EB45AA
+
+AUTH ID           533503
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+462239....00000080000000000000000000020005241               000001000524
+19092015232410   5251               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:23
+RRN         000001000525
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############7729 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    180161728599976C
+
+AUTH ID           689490
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000160000000000000000000020005251               000001000525
+19092015232852   5261               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:28
+RRN         000001000526
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############0175 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    168741063AA4E925
+
+AUTH ID           693620
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000160000000000000000000020005261               000001000526
+19092015233026   5271               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:29
+RRN         000001000527
+MASTERCARD
+AID A0000000041010
+CBA DEBIT
+############2182 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    FAF92D97EA37EE6D
+
+AUTH ID           694938
+
+PURCHASE          $17.00
+
+TOTAL AUD         $17.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000170000000000000000000020005271               000001000527
+19092015233134   5281               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:31
+RRN         000001000528
+MASTERCARD
+############1382 (I)
+Cheque A/C
+
+       APPROVED 00
+
+AUTH ID           518939
+
+PURCHASE           $8.00
+
+TOTAL AUD          $8.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+516361....00000080000000000000000000010005281               000001000528
+??????....000000800000000000000000000 0000001                           
+19092015233358   5291               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:33
+RRN         000001000529
+VISA
+AID A0000000031010
+VISA PAYWAVE
+############6477 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    4B07660DF18AFD64
+
+AUTH ID           094834
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------
+456432....00000160000000000000000000020005291               000001000529
+19092015233733   5301               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:37
+RRN         000001000530
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############4360 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    5C8D197AA0CF938E
+
+AUTH ID           R89871
+
+PURCHASE          $16.00
+
+TOTAL AUD         $16.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+516361....00000160000000000000000000020005301               000001000530
+19092015235141   5311               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:51
+RRN         000001000531
+MASTERCARD
+############4538 (I)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           014853
+
+PURCHASE          $21.00
+
+TOTAL AUD         $21.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+521729....00000210000000000000000000000005311               000001000531
+19092015235432   5321               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:54
+RRN         000001000532
+MASTERCARD
+AID A0000000041010
+DEBIT MASTERCARD
+############9246 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    5E72DB7BE4021949
+
+AUTH ID           715199
+
+PURCHASE          $32.00
+
+TOTAL AUD         $32.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0302 E800
+------------------------
+521729....00000320000000000000000000020005321               000001000532
+19092015235858   5331               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 19/09/15 23:58
+RRN         000001000533
+DEBIT
+#############4027 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           015056
+
+PURCHASE           $9.00
+
+TOTAL AUD          $9.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+560279....00000090000000000000000000000005331               000001000533
+20092015000606   5341               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 20/09/15 00:06
+RRN         000001000534
+DEBIT
+###############7056 (S)
+Savings A/C
+
+       APPROVED 00
+
+AUTH ID           519703
+
+PURCHASE          $30.00
+
+TOTAL AUD         $30.00
+
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+------------------------
+501007....00000300000000000000000000000005341               000001000534
+20092015000846   5351               0024
+------------------------
+
+         XY2 BAR
+    FORTITUDE VAL AU
+
+      CUSTOMER COPY
+
+Acquirer             NAB
+Merchant ID     42222505
+Terminal ID       BN0UR1
+Country Code          AU
+Date/Time 20/09/15 00:08
+RRN         000001000535
+VISA
+AID A0000000031010
+VISA PAYWAVE
+############7073 (C)
+Credit A/C
+
+       APPROVED 00
+ARQC    126DE7F58AD514F6
+
+AUTH ID           000522
+
+PURCHASE          $13.00
+
+TOTAL AUD         $13.00
+
+     Contactless txn
+
+    PLEASE RETAIN AS
+   RECORD OF PURCHASE
+
+ 0000000000 1F0000 0000
+------------------------

@@ -2,13 +2,13 @@ package utils;
 
 public class Settlement {
 
-	
-	
 	public String merchantId;
 	public String date;
 	public String purchCount;
-	public String purchAmount;
+	public Float purchAmount;
 	public String terminalId;
+	
+	
 	public String getMerchantId() {
 		return merchantId;
 	}
@@ -27,13 +27,22 @@ public class Settlement {
 	public void setPurchCount(String purchCount) {
 		this.purchCount = purchCount;
 	}
-	public String getPurchAmount() {
+	public Float getPurchAmount() {
 		return purchAmount;
 	}
-	public void setPurchAmount(String purchAmount) {
+	public void setPurchAmount(Float purchAmount) {
 		this.purchAmount = purchAmount;
 	}
-	//check for null 
+	
+	
+	
+	public String getTerminalId() {
+		return terminalId;
+	}
+	public void setTerminalId(String terminalId) {
+		this.terminalId = terminalId;
+	}
+		//check for null 
 		public boolean isValid() {
 		    return merchantId != null || purchCount!=null;
 		  }
