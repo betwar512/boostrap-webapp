@@ -41,7 +41,7 @@ import utils.CustomItem;
 		    return files;
 		}
 
-		
+
 		
 		/*
 		 * Test level 1
@@ -62,7 +62,7 @@ import utils.CustomItem;
 		ArrayList<ArrayList<String>> retMap=createMap();		
 		HashMap<String,ArrayList<CustomItem>> map=new HashMap<>();
 	
-		SettlementCustomHandler.settleMents(retMap);
+		//SettlementCustomHandler.settleMents(retMap);
 		
 			for (ArrayList<String> t : retMap) {
 

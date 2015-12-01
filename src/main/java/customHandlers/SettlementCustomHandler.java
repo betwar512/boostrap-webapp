@@ -40,7 +40,7 @@ public class SettlementCustomHandler {
 				else
 					if(stS.contains("SETTLEMENT"))settl.date=stSplit[6];
 						else
-							if(r.contains("Purch Amount"))settl.purchAmount=stSplit[4];
+							if(r.contains("Purch Amount"))settl.purchAmount=stSplit[6];
 		 					else
 		 						if(r.contains("Purch Count"))settl.purchCount=stSplit[12];
 

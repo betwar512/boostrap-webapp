@@ -32,6 +32,14 @@
 		<servlet-name>FposController</servlet-name>
 		<servlet-class>controller.FposController</servlet-class>
 	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>TableController</display-name>
+		<servlet-name>TableController</servlet-name>
+		<servlet-class>controller.TableController</servlet-class>
+	</servlet>
+	
 
 	<!-- Map these files with JSF -->
 	<servlet-mapping>
@@ -44,6 +52,11 @@
 		<servlet-name>FposController</servlet-name>
 		<url-pattern>/FposController</url-pattern>
 	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>TableController</servlet-name>
+		<url-pattern>/TableController</url-pattern>
+	</servlet-mapping>
+	
   
   
 </web-app>

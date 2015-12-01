@@ -1,6 +1,5 @@
 package customHandlers;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashMap;
 import utils.CustomItem;
 import utils.GroupTotal;
@@ -11,7 +10,9 @@ import utils.GroupTotal;
 public class SumCustomHandler {
 
 	
-	//Get total of the passed log file 
+	/*
+	 * Coagulate total for the map 
+	 * */
 	public static Float getTotal(HashMap<String,ArrayList<CustomItem>> map ){
 		
 	
@@ -29,7 +30,10 @@ public class SumCustomHandler {
 		return total;
 		
 	}
-	
+	/*
+	 * GetTotal by ArrayList 
+	 * 
+	 * */
 	public static Float getTotal(ArrayList<CustomItem> list ){
 		
 		
@@ -67,7 +71,7 @@ public class SumCustomHandler {
 	
 	
 	/*
-	 * Calculate total for each group of cardTypes 
+	 * Calculate total for Map by key groups  
 	 * Return array of type GroupTotal 
 	 * */
 	public static ArrayList<GroupTotal> getGroupTotal(HashMap<String,ArrayList<CustomItem>> map){
@@ -91,20 +95,6 @@ public class SumCustomHandler {
 	}
 	
 	
-	/*
-	 * Time comparison 
-	 * 
-	 * */
-	public static ArrayList<CustomItem> afterPassedDate(ArrayList<CustomItem> list,Date minDate,Date maxDate){
-		
-		ArrayList<CustomItem> itemsAll=new ArrayList<>();
-			for (CustomItem customItem : list) {
-				if(customItem.dateTime.after(minDate)&& customItem.dateTime.before(maxDate))
-					itemsAll.add(customItem);	
-						
-		}
-		return itemsAll;
-	}
 	
 	
 	

@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import customHandlers.GroupCustomHandler;
 import customHandlers.LogCustomHelper;
 import customHandlers.SumCustomHandler;
 import customHandlers.TypeConvertor;
@@ -36,8 +37,9 @@ public class FposController extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+	
+		request.getRequestDispatcher("tables.xhtml").forward(request, response);
+		
 	}
 
 	/**
@@ -47,7 +49,7 @@ public class FposController extends HttpServlet {
 	
 		
 
-	
+			//JQuery passed data 
 		String minTime=request.getParameter("mindatetime");
 		String maxTime=request.getParameter("maxdatetime");
 		System.out.println(minTime);
@@ -61,21 +63,18 @@ public class FposController extends HttpServlet {
 		
 	        HashMap<String,ArrayList<CustomItem>> map = lcg.objectArray;
 		  	ArrayList<CustomItem> itemsAll=SumCustomHandler.mapToList(map);
-		   	 	
+
 		  	
-		  	
-		  	
-		  	
-	        ArrayList<CustomItem> itemsTime=  SumCustomHandler.afterPassedDate(itemsAll,selectedDate,maxSelectedDate);
+		  	// create list of items in specified proximity 
+	        ArrayList<CustomItem> itemsTime=  GroupCustomHandler.afterPassedDate(itemsAll,selectedDate,maxSelectedDate);
 		   	
 		  
-		   	Collections.sort(itemsTime,new CustomItem());
-		    Float total=customHandlers.SumCustomHandler.getTotal(map);	
-		    
-		    
+		   	Collections.sort(itemsTime,new CustomItem());//Sort collection interface 
 		    Float totalBySelecteddate=SumCustomHandler.getTotal(itemsTime);
 		    
-		    ArrayList<GroupTotal> groupTotals=customHandlers.SumCustomHandler.getGroupTotal(map);//total for all the transaction in log file 
+		    HashMap<String,ArrayList<CustomItem>> timeSortedMap=GroupCustomHandler.createMap(itemsTime);//Sort by card type 
+		    
+		    ArrayList<GroupTotal> groupTotals=customHandlers.SumCustomHandler.getGroupTotal(timeSortedMap);//total for all the transaction in log file 
 		
 
 		    
@@ -84,11 +83,16 @@ public class FposController extends HttpServlet {
 		 request.setAttribute("items", itemsTime);
 		 request.setAttribute("cards",groupTotals);
 		 
-		String url="Table.jsp"; //relative url for display jsp page
+//		String url="Table.jsp"; //relative url for display jsp page
+//		
+//		//HttpSession session =request.getSession();
+//		 request.getRequestDispatcher(url).forward(request,response);
 		
-		//HttpSession session =request.getSession();
-		 request.getRequestDispatcher(url).forward(request,response);
-		
+		 
+		 doGet(request,response);
+		 
+		 
+		 
 	}
 
 }
