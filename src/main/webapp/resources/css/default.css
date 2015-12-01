@@ -10,6 +10,13 @@ body {
   padding-top: 50px;
 }
  
+ /* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 25px;
+}
+ 
  
 /*
  * Global add-ons
@@ -22,7 +29,7 @@ body {
  
  
 /*
- * Sidebar
+ * side bar 
  */
  
 /* Hide for mobile, show later */

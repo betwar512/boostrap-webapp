@@ -3,8 +3,7 @@ package customHandlers;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
-
-import utils.CustomItem;
+import utils.*;
 
 public class GroupCustomHandler {
 
@@ -47,7 +46,7 @@ public class GroupCustomHandler {
 		
 		for(CustomItem item:items){
 		
-			if(!map.containsKey(item.cardType)){	
+			if(!map.containsKey(item.terminalId)){	
 				ArrayList<CustomItem> c=new ArrayList<>();
 					c.add(item);
 						map.put(item.terminalId,c);
@@ -76,6 +75,42 @@ public class GroupCustomHandler {
 		return itemsAll;
 	}
 	
+	/*
+	 * Calculate total for eachcard belong to each Terminal  
+	 * 
+	 * */
+	public static void getTerminalCardsTotals(HashMap<String,HashMap<String,ArrayList<CustomItem>>> mapMap){
+		
+		ArrayList<TotalTerminalCard> totals=new ArrayList<>();
+		
+		for(String fKey:mapMap.keySet()){
+			
+			HashMap<String,ArrayList<CustomItem>> map=mapMap.get(fKey);
+			
+			for(String sKey:map.keySet()){
+				
+				ArrayList<CustomItem> list=map.get(sKey);
+				
+				
+				for(CustomItem item:list){
+					
+					
+					
+					
+				}
 	
+				
+			}//foreach map
+
+			
+		}//foreach mapMap 
+		
+		
+		
+		
+		
+		
+		
+	}
 	
 }

@@ -2,7 +2,7 @@ package customHandlers;
 import java.util.ArrayList;
 import java.util.HashMap;
 import utils.CustomItem;
-import utils.GroupTotal;
+import utils.*;
 
 /*
  * 
@@ -83,7 +83,7 @@ public class SumCustomHandler {
 		 GroupTotal gp=new GroupTotal();
 		 gp.key=key;
 			ArrayList<CustomItem> keyValues=map.get(key);
-			float groupTotal=0;
+			Float groupTotal=0f;
 			    for(CustomItem it:keyValues){
 			    groupTotal+=it.totalAmount;		    	
 			    }
@@ -97,5 +97,47 @@ public class SumCustomHandler {
 	
 	
 	
+	/*
+	 * Calculate total for Map by key TerminlaId 
+	 * CardType Total
+	 * OutPut: Map Class: TotalTerminalCard
+	 * Return array of type GroupTotal 
+	 * */
+	public static ArrayList<TotalTerminalCard> getTerminalCardTotal(HashMap<String,ArrayList<CustomItem>> map){
+		
+		
+		ArrayList<TotalTerminalCard> TotalTerminalCard=new ArrayList<>(); //pass as Attribute 
+		//iterat with key 
+		for (String key : map.keySet()) {
+			TotalTerminalCard gp=new TotalTerminalCard();
+		 gp.terminalId=key;
+		 
+			ArrayList<CustomItem> keyValues=map.get(key);
+			//totals
+			Float groupTotal=0f;
+			Float mvTotal=0f;
+			Float otherTotal=0f;
+
+			    for(CustomItem it:keyValues){
+			    groupTotal+=it.totalAmount;	
+			    
+			    if(it.cardType.contains("MASTERCARD")|| it.cardType.contains("VISA"))
+			    	mvTotal+= it.totalAmount;
+			    else 
+			    	otherTotal+=it.totalAmount;
+			    	
+
+			    }
+			    //set Item
+			gp.total=groupTotal; //get total 
+			gp.totalMasterVisa=mvTotal;
+			gp.totalOthers=otherTotal;
+			TotalTerminalCard.add(gp);
+		}
+		
+		return TotalTerminalCard;
+	}
+	
+
 	
 }
