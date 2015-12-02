@@ -51,25 +51,22 @@ public class FposController extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	
-		ReceiptCustomHandler.createMap();
-
+		ReceiptCustomHandler rc=new ReceiptCustomHandler();
+	  //  LogCustomHelper lcg=new LogCustomHelper();//logger class with property HashMap list of all the transactions 
+	    
+	  
+	  	
 			//JQuery passed data 
-		String minTime=request.getParameter("mindatetime");
-		String maxTime=request.getParameter("maxdatetime");
-		System.out.println(minTime);
-		
-	     Date selectedDate=TypeConvertor.jqueryStringToDate(minTime); //Min time index
-	     Date maxSelectedDate=TypeConvertor.jqueryStringToDate(maxTime);//Max time index 
-
-	        LogCustomHelper lcg=new LogCustomHelper();//logger class with property HashMap list of all the transactions 
-	        HashMap<String,ArrayList<CustomItem>> map = lcg.objectArray;
-		  	ArrayList<CustomItem> itemsAll=SumCustomHandler.mapToList(map);
-	
-		 
+			String minTime=request.getParameter("mindatetime");
+			String maxTime=request.getParameter("maxdatetime");
+			System.out.println(minTime);	
+			Date selectedDate=TypeConvertor.jqueryStringToDate(minTime); //Min time index
+			Date maxSelectedDate=TypeConvertor.jqueryStringToDate(maxTime);//Max time index   
+	     
+	        // HashMap<String,ArrayList<CustomItem>> map =rc.map; //lcg.objectArray;
+		  	ArrayList<CustomItem> itemsAll=SumCustomHandler.mapToList(rc.map);
 		  	//Settlements 
-		  ArrayList<Settlement> sett=SettlementCustomHandler.settlements(lcg.stringMap);
-		  	
-
+		    ArrayList<Settlement> sett=SettlementCustomHandler.settlements(rc.stringMap);
 		  	// create list of items in specified proximity 
 	        ArrayList<CustomItem> itemsTime=  GroupCustomHandler.afterPassedDate(itemsAll,selectedDate,maxSelectedDate);  
 		   	Collections.sort(itemsTime,new CustomItem());//Sort collection interface 
@@ -77,12 +74,9 @@ public class FposController extends HttpServlet {
 		    HashMap<String,ArrayList<CustomItem>> timeSortedMap=GroupCustomHandler.createMap(itemsTime);//Sort by card type     
 		    ArrayList<GroupTotal> groupTotals=customHandlers.SumCustomHandler.getGroupTotal(timeSortedMap);//total for all the transaction in log file 
 	
-		    
-		    ////////////
-		    
-		    
-		      HashMap<String,ArrayList<CustomItem>> terminalMap = lcg.objectArray;
-		        ArrayList<CustomItem> terminalItemsAll=SumCustomHandler.mapToList(terminalMap);        
+
+		    //  HashMap<String,ArrayList<CustomItem>> terminalMap = rc.map;
+		        ArrayList<CustomItem> terminalItemsAll=SumCustomHandler.mapToList(rc.map);        
 		        HashMap<String,ArrayList<CustomItem>> mapTerminal=GroupCustomHandler.createTerminalGroup(terminalItemsAll);
 		        ArrayList<TotalTerminalCard> terminalGroupTotals=customHandlers.SumCustomHandler.getTerminalCardTotal(mapTerminal);
 		        Float total=0f;

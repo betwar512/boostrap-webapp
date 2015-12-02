@@ -226,60 +226,149 @@ import utils.CustomItem;
 		
 		
 		
-		/*
-		 * Read all the files 
-		 * */
-		public ArrayList<ArrayList<String>> createReceiptMap()
-		{
-			
-			ArrayList<ArrayList<String>> map=new ArrayList<ArrayList<String>>();//add all to map 
-			//int mapIndex=0;
-			
-			final String folderPath = "/Users/betwar/Desktop/workSpace/boostrap-webapp/src/main/java/receipt";
-			final File folder = new File(folderPath);
-			List<File> files= listFilesForFolder(folder);
-			ArrayList<String> array=new ArrayList<String>();
-			
-			for(File file:files){
-				
-		     	try{
-		
-				   FileInputStream fstream = new FileInputStream(file);
-				   BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
-				   String strLine;
-				   /* read the log File line by line */
-				   while ((strLine = br.readLine()) != null)   {
-					    int lineCounter=0; //if is line counter 2 that make ziro and add to array 
-					    
-					    
-					    
-					    
-					    if(strLine.contains("------------------------"))
-					    {
-					    	lineCounter++;
-					    }else
-					    	if(lineCounter<2)
-					    {
-					    		array.add(strLine);
-					    	
-					    }else 
-					    	if(lineCounter==2){
-					    		      lineCounter=0;
-					    		      map.add(array);
-					    	array=new ArrayList<String>();	    //re init  
-					    	}
-
-					   System.out.println(strLine);
-				      }
-				   } catch (Exception e) {
-					     System.err.println("Error: " + e.getMessage());
-				}
-			  }
-			
-			return map;
-			}
-
-
+//		/*
+//		 * Read all the files 
+//		 * */
+//		public ArrayList<ArrayList<String>> createReceiptMap()
+//		{
+//			
+//			ArrayList<ArrayList<String>> map=new ArrayList<ArrayList<String>>();//add all to map 
+//			//int mapIndex=0;
+//			
+//			final String folderPath = "/Users/betwar/Desktop/workSpace/boostrap-webapp/src/main/java/receipt";
+//			final File folder = new File(folderPath);
+//			List<File> files= listFilesForFolder(folder);
+//			
+//			
+//			for(File file:files){
+//				
+//		     	try{
+//		
+//				   FileInputStream fstream = new FileInputStream(file);
+//				   BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+//				   String strLine;
+//				   boolean bool=false;
+//				   int lineCounter=0; //if is line counter 2 that make ziro and add to array 
+//				   /* read the log File line by line */
+//				   ArrayList<String> array=new ArrayList<String>();
+//				   while ((strLine = br.readLine()) != null)   {
+//					  
+//			
+//					  //  CUSTOMER COPY
+//					    
+//					    
+//					    if(strLine.trim().equals("CUSTOMER COPY"))
+//					    {
+//					    	bool=true;
+//					    }else
+//					    	if(strLine.equals("------------------------")){	    	
+//					    	bool=false;
+//					    	lineCounter++;
+//					    	} 
+//					    
+//					    
+//					    	if(!bool && lineCounter==2){
+//					    		
+//					    		
+//					    		@SuppressWarnings("unchecked")
+//								ArrayList<String> cloneArray=(ArrayList<String>) array.clone();
+//					    		if(cloneArray.size()>5)
+//					    		map.add(cloneArray);
+//						    	array.clear();
+//						    	lineCounter=0;
+//					    	}
+//					    
+//					    	
+//					    	
+//					    
+//					    if(bool && strLine.trim().length()>1){				    	
+//					    	array.add(strLine.trim());	
+//					    }
+//
+//					    	
+//
+//					   System.out.println(strLine);
+//				      }
+//				br.close(); 
+//		     	} catch (Exception e) {
+//					     System.err.println("Error: " + e.getMessage());
+//				}
+//			  }
+//			
+//			createCustomMap(map);
+//			return map;
+//			}
+//		
+//
+//		
+//		private HashMap<String,ArrayList<CustomItem>> createCustomMap(ArrayList<ArrayList<String>> array){
+//			
+//			
+//			
+//			HashMap<String,ArrayList<CustomItem>> map=new HashMap<String,ArrayList<CustomItem>>();		
+//				
+//			for(ArrayList<String> list:array){
+//				
+//				
+//				CustomItem item=new CustomItem();
+//				
+//				item.merchantId=list.get(2).split(" ")[6];//
+//				item.cardType=list.get(7);	//
+//				item.status=list.get(12);//
+//				item.terminalId=list.get(3).split(" ")[8];
+//				
+//			
+//				
+//				
+//				for(String r : list){
+//					
+//					
+//					if(r.startsWith("#")) {//check if it's card number 
+//						item.cardNumber=r.substring(r.length()-4,r.length()); //last 4 digit 
+//						
+//						}	        
+//								else
+//									if(r.contains("Date/Time")){
+//						
+//						 Date d = TypeConvertor.stringToDate(r.substring(9).trim());
+//						item.dateTime=d;
+//					
+//					}
+//					else 
+//						if(r.contains("PURCHASE")){
+//							
+//							String[] s=r.split(" ");
+//							item.purchaseAmount=r.split(" ")[11].substring(1);	}
+//					else 
+//						if(r.contains("TOTAL AUD"))
+//							item.totalAmount=Float.valueOf(r.split(" ")[10].substring(1));	
+//				}	
+//					
+//
+////				
+////				item.cardNumber=list.get(10).substring(12);//
+////		     	item.purchaseAmount=list.get(15).split(" ")[10].substring(1);	
+////				item.totalAmount=Float.valueOf(list.get(16).split(" ")[10].substring(1));
+////				item.dateTime;
+//
+//				
+//				if(!map.containsKey(item.cardType)){	
+//					ArrayList<CustomItem> c=new ArrayList<>();
+//					c.add(item);
+//				map.put(item.cardType,c);
+//				}else{
+//					
+//				ArrayList<CustomItem> c=map.get(item.cardType);
+//				c.add(item);
+//					
+//				}//else
+//				
+//			}//foreach
+//
+//			return map;
+//
+//			
+//		}
 				
 
 }
