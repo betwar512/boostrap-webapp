@@ -34,7 +34,7 @@ public class TypeConvertor {
 	
 	public static final Date jqueryStringToDate(String str){
 		
-		 SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd/MM/yyyy HH:mm");
+		 SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd/MM/yyyy hh:mm");
 		 
 		 Date date=null;
 	     try
@@ -50,6 +50,25 @@ public class TypeConvertor {
 	     return date;
 		}
 	
+	
+	
+	public static final Date convertStringToDateElixer(String str){
+		
+ SimpleDateFormat simpleDateFormat = new SimpleDateFormat("MMM dd yyyy HH:mm");
+		 
+		 Date date=null;
+	     try
+	     {
+	          date = simpleDateFormat.parse(str);
+	        System.out.println("date : "+simpleDateFormat.format(date));
+	     }
+	     catch (ParseException ex)
+	     {
+	         System.out.println("Exception "+ex);
+	     }
+	     
+	     return date;
+	}
 	
 	/*
 	 * Convert string to Float  

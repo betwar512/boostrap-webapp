@@ -173,7 +173,7 @@ import utils.CustomItem;
 			ArrayList<ArrayList<String>> map=new ArrayList<ArrayList<String>>();//add all to map 
 			//int mapIndex=0;
 			
-			final String folderPath = "/Users/betwar/Desktop/workSpace/boostrap-webapp/src/main/java/resources";
+			final String folderPath = "/Users/betwar/Desktop/Elixer";
 			final File folder = new File(folderPath);
 			List<File> files= listFilesForFolder(folder);
 			
@@ -190,8 +190,9 @@ import utils.CustomItem;
 					boolean bool=false; //checker for B 
 			   
 					   //check for a tag 
-					   if(strLine.contains("FORTITUDE VAL AU"))
-					    bool=true;	   
+					   if(strLine.contains("B     CUSTOMER COPY      B"))
+					    bool=true;	 
+					   
 					   //end of the data 
 				     if(strLine.contains("<?xml version")){
 				    	 bool=false;     
