@@ -11,13 +11,13 @@ import java.util.List;
 
 import utils.CustomItem;
 
-public class ReceiptCustomHandler {
+public class NABLogHelper {
 
 	public HashMap<String,ArrayList<CustomItem>> map;
 	public ArrayList<ArrayList<String>>  stringMap;
 	
 	
-	public ReceiptCustomHandler(){
+	public NABLogHelper(){
 		
 		
 		 stringMap=createReceiptMap();

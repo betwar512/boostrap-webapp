@@ -16,7 +16,7 @@ import utils.CustomItem;
 /*
  * Handling serialization for WFPOS Elixer roofTop backlog 
  * */
-public class ElixerLogHandler {
+public class WestpacLogHelper {
 
 	
 	
@@ -24,7 +24,7 @@ public class ElixerLogHandler {
 			public HashMap<String,ArrayList<CustomItem>> objectArray;  //CustomItemList 
 			public ArrayList<ArrayList<String>>  stringMap; //Map Strings
 			
-			public ElixerLogHandler(){
+			public WestpacLogHelper(){
 				
 				objectArray=createCustomItems();
 				stringMap=createMap();
@@ -63,14 +63,10 @@ public class ElixerLogHandler {
 			public  ArrayList<ArrayList<String>> createMap()
 			{
 
-				
-				
-				
-				
 				ArrayList<ArrayList<String>> map=new ArrayList<ArrayList<String>>();//add all to map 
 				//int mapIndex=0;
 				
-				final String folderPath = "C:\\PC_EFT";
+				final String folderPath = "/Users/betwar/Desktop/PC_EFT";
 				final File folder = new File(folderPath);
 				List<File> files= listFilesForFolder(folder);
 				

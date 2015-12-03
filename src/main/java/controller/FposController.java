@@ -11,10 +11,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import customHandlers.ElixerLogHandler;
+import customHandlers.WestpacLogHelper;
 import customHandlers.GroupCustomHandler;
-import customHandlers.LogCustomHelper;
-import customHandlers.ReceiptCustomHandler;
 import customHandlers.SettlementCustomHandler;
 import customHandlers.SumCustomHandler;
 import customHandlers.TypeConvertor;
@@ -54,7 +52,7 @@ public class FposController extends HttpServlet {
 	
 	//	ReceiptCustomHandler rc=new ReceiptCustomHandler();
 	//   LogCustomHelper lcg=new LogCustomHelper();//logger class with property HashMap list of all the transactions 
-	   ElixerLogHandler eLh=new ElixerLogHandler();
+	   WestpacLogHelper eLh=new WestpacLogHelper();
 	  
 	  	
 			//JQuery passed data 
@@ -78,7 +76,7 @@ public class FposController extends HttpServlet {
 
 		    //  HashMap<String,ArrayList<CustomItem>> terminalMap = rc.map;
 		        ArrayList<CustomItem> terminalItemsAll=SumCustomHandler.mapToList(eLh.objectArray);        
-		        HashMap<String,ArrayList<CustomItem>> mapTerminal=GroupCustomHandler.createTerminalGroup(terminalItemsAll);
+		        HashMap<String,ArrayList<CustomItem>> mapTerminal=GroupCustomHandler.createTerminalGroup(itemsTime);
 		        ArrayList<TotalTerminalCard> terminalGroupTotals=customHandlers.SumCustomHandler.getTerminalCardTotal(mapTerminal);
 		        Float total=0f;
 		        for(TotalTerminalCard it:terminalGroupTotals)
